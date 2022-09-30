@@ -27,9 +27,4 @@
         <p class="startli"><a class="el" href="https://docs.opencv.org/4.x/d5/d0f/tutorial_py_gradients.html">Image Gradients</a></p>
         <p class="startli">Learn to find image gradients, edges etc.</p>
     </li>
-    </li>
-    <li>
-        <p class="startli"><a class="el" href="https://docs.opencv.org/4.x/d5/d0f/tutorial_py_gradients.html">Image Gradients</a></p>
-        <p class="startli">Learn to find image gradients, edges etc.</p>
-    </li>
 </ul>
